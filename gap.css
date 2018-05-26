@@ -1,0 +1,13 @@
+.axis {
+    font-size: 9pt;
+  }
+
+.tip {
+  /*background: lightgreen;*/
+  /*color: white;*/
+  width: 180px;
+  height: 100px;
+  border-radius: 3px;
+}
+.circle {
+     circle.outline-color: black;  }
