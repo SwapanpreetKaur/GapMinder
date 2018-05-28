@@ -38,3 +38,8 @@ margin-left: 300px;
 width: 360px;
 margin-top: 6px;
 }
+
+.circle {
+stroke-width: 1px;
+stroke: black;
+}
