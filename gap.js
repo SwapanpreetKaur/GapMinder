@@ -122,7 +122,7 @@ updatedData = data.map(function(year){
 //Set the timer for years goes from 1800 to 2014 and reset it
 
 function set() {
-interval=setInterval(step,200);
+interval=setInterval(step,100);
 }
 
 function pause() {  
@@ -149,7 +149,7 @@ slide: function(event, ui){
 })
 
 function step(){
-time = (time < 514) ? time + 1 : 0
+time = (time < 260) ? time + 1 : 0
 update(updatedData[time]);
 }
 
