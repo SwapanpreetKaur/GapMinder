@@ -149,7 +149,7 @@ slide: function(event, ui){
 })
 
 function step(){
-time = (time < 260) ? time + 1 : 0
+time = (time < 214) ? time + 1 : 0
 update(updatedData[time]);
 }
 
