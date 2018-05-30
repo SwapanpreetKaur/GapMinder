@@ -19,22 +19,6 @@ In 2014 World Scenario
 
 How to run a project
 
-1. Run gap.html file, able to run on Mozilla browser.
-
-2. For Chrome browser,change some settings:
-
-For Windows
-
-1. At the very first step get the Url of your Chrome installation 
- E.g C:\Users\-your-user-name\AppData\Local\Google\Chrome\Application
-
-2. Now in the second steps from the command line window launch the Google chrome browser with the addition argument ‘–allow-file-access-from-files’. 
-   E.g ‘path to your chrome installation\chrome.exe --allow-file-access-from-files’  
-
-For Mac
-
-1. open -a Google\ Chrome --args --allow-file-access-from-files
-
 Set up LocalServer
 
 1. Download and Install node.js
