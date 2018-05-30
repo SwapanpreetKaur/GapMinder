@@ -28,7 +28,7 @@ Set up LocalServer
 
 3. From then on just cd to the folder that has the files you want to serve and type: http-server
 
-Then point your browser at http://localhost:8080/
+Then point your browser at http://localhost:8080/gap.html
 
 Instructions how to run visualization:
 
