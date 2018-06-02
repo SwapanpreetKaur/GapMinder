@@ -34,6 +34,8 @@ Then point your browser at http://localhost:8080/gap.html
 
 # Visualization:
 
+![gap2](https://user-images.githubusercontent.com/36566332/40873565-3a05a0f4-6680-11e8-921d-17e98537a3b0.PNG)
+
 Bubble Chart
 1. Each bubble shows country.
 2. Each circle size shows population.
