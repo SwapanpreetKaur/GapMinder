@@ -1,3 +1,6 @@
+#chart-area{
+	margin-left: 170px;
+}
 .axis {
 font-size: 9pt;
 }
@@ -9,8 +12,8 @@ border-radius: 3px;
 }
 
 .buttons-list {
-float:left;
-margin-top:10;
+float: left;
+margin-top: 10;
 }
 
 #play-button,#pause-button,#reset-button{
@@ -21,13 +24,12 @@ width: 80px;
 }
 
 #play-button{
-box-shadow:none !important;
+box-shadow: none !important;
 }
 
 #continents1{
-float:right;
-width:130px;
-margin-top:10;
+float: right;
+width: 130px;
 }
 
 #slider{
