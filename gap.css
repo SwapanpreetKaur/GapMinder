@@ -2,46 +2,46 @@
 	margin-left: 170px;
 }
 .axis {
-font-size: 9pt;
+	font-size: 9pt;
 }
 
 .tip {
-width: 180px;
-height: 100px;
-border-radius: 3px;
+	width: 180px;
+	height: 100px;
+	border-radius: 3px;
 }
 
 .buttons-list {
-float: left;
-margin-top: 10;
+	float: left;
+	margin-top: 10;
 }
 
 #play-button,#pause-button,#reset-button{
-background: #deebf7;
-box-shadow: none;
-border-radius: 3px;
-width: 80px;
+	background: #deebf7;
+	box-shadow: none;
+	border-radius: 3px;
+	width: 80px;
 }
 
-#play-button{
-box-shadow: none !important;
+#play-button {
+	box-shadow: none !important;
 }
 
-#continents1{
-float: right;
-width: 130px;
+#continents1 {
+	float: right;
+	width: 130px;
 }
 
-#slider{
-margin-left: 300px;
+#slider {
+	margin-left: 300px;
 }
 
 #date-slider {
-width: 360px;
-margin-top: 6px;
+	width: 360px;
+    margin-top: 6px;
 }
 
 .circle {
-stroke-width: 1px;
-stroke: black;
+	stroke-width: 1px;
+    stroke: black;
 }
