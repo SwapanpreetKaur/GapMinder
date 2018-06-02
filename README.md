@@ -1,4 +1,4 @@
-GapMinder Visualization
+# GapMinder Visualization
 
 This project visualize how population , per capita and life expectancy  have changed in different countries over the past two centuries.
 How all the countries of the world developed since 1800-200 years ago.
@@ -17,7 +17,7 @@ In 2014 World Scenario
 4. The income and health gaps between countries are larger today.
 5. Income is much higher in most, but not all, countries today.
 
-How to run a project
+# How to run a project
 
 Set up LocalServer
 
@@ -32,7 +32,7 @@ Then point your browser at http://localhost:8080/gap.html
 
 
 
-Visualization:
+# Visualization:
 
 Bubble Chart
 1. Each bubble shows country.
