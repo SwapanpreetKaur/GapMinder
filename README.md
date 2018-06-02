@@ -30,7 +30,7 @@ Set up LocalServer
 
 Then point your browser at http://localhost:8080/gap.html
 
-Instructions how to run visualization:
+Visualization:
 
 Bubble Chart
 1. Each bubble shows country.
